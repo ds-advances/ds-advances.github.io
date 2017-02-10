@@ -2,8 +2,10 @@
 title: Advances in Data Science, 2017
 email: magnus.rattray@manchester.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-A 2-day workshop showcasing recent advances in data science methodology and applications, including sessions on advanced data analytics, data science applications, privacy and research software.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+A 2-day workshop showcasing recent advances in data science 
+methodology and applications, including sessions on advanced 
+data analytics, data science applications, privacy and research software.
+baseurl: “” # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.org” # the base hostname & protocol for your site
 twitter_username: dsi_uom
 github_username: ManchesterBioinference
@@ -15,7 +17,7 @@ youtube:
 
 github:
   edit: true
-  repository: confweb
+  repository: ds-advances
   
 markdown: kramdown
 
@@ -23,7 +25,7 @@ markdown: kramdown
 future: true
 
 permalink: "/:categories/:title.html"
-banner: nice_conference_banner.jpeg
+banner: 
 
 analytics:
  google:
