@@ -2,9 +2,7 @@
 title: Advances in Data Science, 2017
 email: magnus.rattray@manchester.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write a description for your conference or meeting here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+A 2-day workshop showcasing recent advances in data science methodology and applications, including sessions on advanced data analytics, data science applications, privacy and research software.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.org” # the base hostname & protocol for your site
 twitter_username: dsi_uom
