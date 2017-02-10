@@ -40,22 +40,22 @@ conference:
   hide_tentative: true
   hosts:
   
-  room: Room
-  venue: Convention Centre
-  location: City, Country
-  name: Conference Name
+  room: Conference Suite
+  venue: Museum of Science and Industry
+  location: Manchester, UK
+  name: Advances in Data Science
   year: 2017
-  month: September
+  month: May
   dates:
-  - 2017-09-12
-  - 2017-09-13
+  - 2017-05-15
+  - 2017-05-16
   draft: true # set to True if the programme is draft only.
   hosts:
   general:
-  - name: Jack Jones
-    url: "http://jackjones.org"
-  - name: Bill Bloggs
-    url: "http://billblogs.org"
+  - name: Magnus Rattray
+    url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
+  - name: Neil Lawrence
+    url: "http://inverseprobability.com/"
   workshop:
   - name:
     url:
