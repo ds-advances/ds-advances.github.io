@@ -1,14 +1,14 @@
 # Site settings
-title: Conference Name, Year
-email: your-email@domain.com
+title: Advances in Data Science, 2017
+email: magnus.rattray@manchester.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Write a description for your conference or meeting here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/confweb" # the subpath of your site, e.g. /blog/
-url: "http://opendsi.cc" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  sods
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://ds-advances.org” # the base hostname & protocol for your site
+twitter_username: dsi_uom
+github_username: ManchesterBioinference
 
 
 youtube:
