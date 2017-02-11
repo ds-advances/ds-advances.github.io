@@ -3,25 +3,25 @@ layout: page
 ---
 
 <article>
-    
-  <p><strong>{{ }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
+	  
+  <p><strong>{{ site.conference.name }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
   
   {{ content }}
     
   
+  {% if site.conference.sponsors %}
   <p><strong>Sponsors</strong></p>
 
-  {% if site.conference.sponsors %}
   <p>This event is sponsored and co-organized by
   {% for sponsor in site.conference.sponsors %}
   <br>{% include listsponsor.html %}</br>
   {% endfor %}
-  {% endif %}
   </p>
-
-  <p><strong>Organizers</strong></p>
+  {% endif %}
 
   {% if site.conference.organizers %}
+  <p><strong>Organizers</strong></p>
+
   {% assign lastone = site.conference.organizers | last %}
   {% for person in site.conference.organizers %}
   {% include listperson.html %}
