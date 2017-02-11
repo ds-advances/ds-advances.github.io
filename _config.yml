@@ -37,9 +37,9 @@ youtube:
   width: 560
 
 conference:
-  draft: true
+  draft: true # set to True if the programme is draft only.
   hide_tentative: true
-  hosts:
+  hosts:  
   
   room: Conference Suite
   venue: Museum of Science and Industry
@@ -50,8 +50,6 @@ conference:
   dates:
   - 2017-05-15
   - 2017-05-16
-  draft: true # set to True if the programme is draft only.
-  hosts:
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
