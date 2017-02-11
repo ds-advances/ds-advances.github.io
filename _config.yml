@@ -1,0 +1,68 @@
+# Site settings
+title: "Advances in Data Science, 2017"
+email: "magnus.rattray@manchester.ac.uk"
+description: >
+  A 2-day workshop showcasing recent advances in data science methodology and applications, including sessions on advanced data analytics, data science applications, privacy and research software.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://manchesterbioinference.github.io" # the base hostname & protocol for your site
+twitter_username: dsi_uom
+github_username: ManchesterBioinference
+
+github:
+  edit: true
+  repository: manchesterbioinference.github.io
+
+youtube:
+  height: 315
+  width: 560
+
+github:
+  edit: true
+  repository: ds-advances
+  
+markdown: kramdown
+
+# Build settings
+future: true
+
+permalink: "/:categories/:title.html"
+banner: 
+
+analytics:
+ google:
+   tracking_id: # Google tracking ID if applicable
+
+youtube:
+  height: 315
+  width: 560
+
+conference:
+  draft: true # set to True if the programme is draft only.
+  hide_tentative: true
+  hosts:  
+  
+  room: Conference Suite
+  venue: Museum of Science and Industry
+  location: Manchester, UK
+  name: Advances in Data Science
+  year: 2017
+  month: May
+  dates:
+  - 2017-05-15
+  - 2017-05-16
+  organizers:
+  - name: Magnus Rattray
+    url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
+  - name: Neil Lawrence
+    url: "http://inverseprobability.com/"
+
+map:
+  show: False
+  mapbox:
+    latitude: # latitude of map center
+    longitude: # longitude of map center
+    map_id: # mapbox id
+    access_token: # mapbox access token
+    zoom_level: 17
+    width: 100%
+    height: 500px
