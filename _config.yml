@@ -16,9 +16,6 @@ youtube:
   height: 315
   width: 560
 
-github:
-  edit: true
-  repository: ds-advances
   
 markdown: kramdown
 
