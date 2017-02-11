@@ -3,14 +3,14 @@ title: "Advances in Data Science, 2017"
 email: "magnus.rattray@manchester.ac.uk"
 description: >
   A 2-day workshop showcasing recent advances in data science methodology and applications, including sessions on advanced data analytics, data science applications, privacy and research software.
-baseurl: "/ds-advances" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://manchesterbioinference.github.io" # the base hostname & protocol for your site
 twitter_username: dsi_uom
 github_username: ManchesterBioinference
 
 github:
   edit: true
-  repository: ds-advances
+  repository: manchesterbioinference.github.io
 
 youtube:
   height: 315
