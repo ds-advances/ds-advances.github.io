@@ -47,6 +47,9 @@ conference:
   dates:
   - 2017-05-15
   - 2017-05-16
+  sponsors:
+  - name: University of Manchester Data Science Institute
+    url: "http://www.datascience.manchester.ac.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
