@@ -6,7 +6,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.github.io" # the base hostname & protocol for your site
 twitter_username: dsi_uom
-github_username: ManchesterBioinference
+github_username: ds-advances
 
 github:
   edit: true
