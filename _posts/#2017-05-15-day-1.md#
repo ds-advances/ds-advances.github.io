@@ -31,14 +31,14 @@ talks:
   speaker: Tammo Rukat
   title: Bayesian Boolean Matrix Factorisation
   institute: University of Oxford
-  url:
+  url: 
   abstract:
 - start: "11:15"
   end: "11.25"
   speaker: Dennis Wang
   title: A Bayesian Model for Drug Response Estimation and Biomarker Testing using Gaussian Processes
   institute: University of Sheffield
-  url:
+  url: http://www.sheffield.ac.uk/neuroscience/staff/wang
   abstract: 
 - start: "11:30"
   end: "12:05"
@@ -79,7 +79,7 @@ talks:
   speaker: Michael Smith
   title: Differentially Private Gaussian Processes
   institute: University of Sheffield
-  url:
+  url: http://siid.group.shef.ac.uk/team/dr-mike-smith/
   abstract:
 - start: "15:30"
   title:  Coffee
