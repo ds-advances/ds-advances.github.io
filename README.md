@@ -36,7 +36,7 @@ git push --mirror https://github.com/ds-advances/ds-advancesXXXX.git
 9. Check that the archived page appears online at http://www.ds-advances.org/ds-advancesXXXX/
 
 10. Update the original main repository at [https://github.com/ds-advances/ds-advances.github.io](https://github.com/ds-advances/ds-advances.github.io) for the current conference.
-This will be used to host the current DALI.
+This will be used to host the current meeting.
 
 11. Add the team `ds-advancesXXXX` to the admin rights for the repo `ds-advancesXXXX`
 
