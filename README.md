@@ -1,8 +1,10 @@
 # ds-advances.github.io
 
-The DALI current webpage.
+The Advances in Data Science current webpage.
 
-This repository contains the current DALI conference page. Once the year has past it can be archived to dali20XX and modified to form the next year's page.
+Derived from https://github.com/sods/_confweb
+
+This repository contains the current DS-ADVANCES conference page. Once the year has past it can be archived to ds-advancesXXXX and modified to form the next year's page.
 
 
 ## Archiving Last Year's Page
