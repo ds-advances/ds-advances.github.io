@@ -23,6 +23,7 @@ Each year the main web page needs to be archived to store as a previous year's c
 git clone --bare https://github.com/ds-advances/ds-advances.github.io.git
 mv ds-advances.github.io.git ds-advancesXXXX
 cd ds-advancesXXXX
+git branch -d gh-pages
 git branch -m gh-pages
 git push --mirror https://github.com/ds-advances/ds-advancesXXXX.git
 ```
