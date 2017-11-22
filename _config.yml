@@ -2,7 +2,7 @@
 title: "Advances in Data Science, 2018"
 email: "dsi.enquiries@manchester.ac.uk"
 description: >
-  A 2-day workshop showcasing recent advances in data science methodology and applications, including sessions on advanced data analytics, data science applications, privacy and research software.
+  A 2-day workshop showcasing recent advances in data science methodology and applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.github.io" # the base hostname & protocol for your site
 twitter_username: dsi_uom
@@ -45,17 +45,25 @@ conference:
   venue: Museum of Science and Industry
   location: Manchester, UK
   name: Advances in Data Science
-  year: 2017
+  year: 2018
   month: May
   dates:
-  - 2017-05-15
-  - 2017-05-16
+  - 2017-05-21
+  - 2017-05-22
   sponsors:
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
+  - name: Cathie Marsh Institute for Social Research
+    url: "https://www.cmist.manchester.ac.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
+  - name: Rachel Gibson
+    url: "https://www.research.manchester.ac.uk/portal/Rachel.Gibson.html"
+  - name: Mark Elliot
+    url: "https://www.research.manchester.ac.uk/portal/mark.elliot.html"
+  - name: Suzy Moat
+    url: "http://www.wbs.ac.uk/about/person/suzy-moat/"
   - name: Neil Lawrence
     url: "http://inverseprobability.com/"
 
