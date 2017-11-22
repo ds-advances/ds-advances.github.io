@@ -9,7 +9,7 @@ twitter_username: dsi_uom
 github_username: ds-advances
 
 previous_meeting:
- url: /ds-advances17
+ url: /ds-advances2017
 
 github:
   edit: true
@@ -48,8 +48,8 @@ conference:
   year: 2018
   month: May
   dates:
-  - 2017-05-21
-  - 2017-05-22
+  - 2018-05-21
+  - 2018-05-22
   sponsors:
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
