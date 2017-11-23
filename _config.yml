@@ -26,7 +26,7 @@ markdown: kramdown
 future: true
 
 permalink: "/:categories/:title.html"
-banner: manchester.jpg
+banner: manchester2018.jpg
 
 analytics:
  google:
