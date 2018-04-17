@@ -47,7 +47,7 @@ layout: default
         {% if talk.abstract or talk.bio %}
 
         <br>
-<h4 id='#{{ talk.title | slugify }}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
+<h4 id='{{ talk.title | slugify }}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
 
 {% assign lastone = talk.author | last %}{% for person in talk.author %}{% include listperson.html %}{% endfor %}
 
