@@ -51,6 +51,8 @@ conference:
   - 2018-05-21
   - 2018-05-22
   sponsors:
+  - name: Royal Statistical Society
+    url: "https://www.rss.org.uk/"
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
   - name: Cathie Marsh Institute for Social Research
