@@ -56,7 +56,7 @@ conference:
   - name: AutoTrader
     url: "https://www.autotrader.co.uk/"
   - name: BJSS 
-  - url: "http://www.bjss.com/"
+    url: "http://www.bjss.com/"
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
   - name: Cathie Marsh Institute for Social Research
