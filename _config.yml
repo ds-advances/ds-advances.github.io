@@ -51,10 +51,10 @@ conference:
   - 2019-05-20
   - 2019-05-21
   sponsors:
-  - name: Alan Turing Institute
-    url: "https://www.turing.ac.uk/"
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
+  - name: Alan Turing Institute
+    url: "https://www.turing.ac.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
