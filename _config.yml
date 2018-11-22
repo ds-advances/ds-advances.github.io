@@ -41,8 +41,8 @@ conference:
   hide_tentative: true
   hosts:  
   
-  room: Conference Suite
-  venue: Museum of Science and Industry
+  room: 
+  venue: etc Venues
   location: Manchester, UK
   name: Advances in Data Science
   year: 2019
