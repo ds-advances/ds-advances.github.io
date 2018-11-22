@@ -1,5 +1,5 @@
 # Site settings
-title: "Advances in Data Science, 2018"
+title: "Advances in Data Science, 2019"
 email: "dsi.enquiries@manchester.ac.uk"
 description: >
   A 2-day workshop showcasing recent advances in data science methodology and applications.
@@ -9,7 +9,7 @@ twitter_username: dsi_uom
 github_username: ds-advances
 
 previous_meeting:
- url: /ds-advances2017
+ url: /ds-advances2018
 
 github:
   edit: true
@@ -45,33 +45,27 @@ conference:
   venue: Museum of Science and Industry
   location: Manchester, UK
   name: Advances in Data Science
-  year: 2018
+  year: 2019
   month: May
   dates:
-  - 2018-05-21
-  - 2018-05-22
+  - 2019-05-20
+  - 2019-05-21
   sponsors:
-  - name: Royal Statistical Society
-    url: "https://www.rss.org.uk/"
-  - name: AutoTrader
-    url: "https://www.autotrader.co.uk/"
-  - name: BJSS 
-    url: "http://www.bjss.com/"
+  - name: Alan Turing Institute
+    url: "https://www.turing.ac.uk/"
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
-  - name: Cathie Marsh Institute for Social Research
-    url: "https://www.cmist.manchester.ac.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
-  - name: Rachel Gibson
-    url: "http://www.rachelgibson.info"
-  - name: Mark Elliot
-    url: "https://www.research.manchester.ac.uk/portal/mark.elliot.html"
-  - name: Suzy Moat
-    url: "http://www.wbs.ac.uk/about/person/suzy-moat/"
-  - name: Neil Lawrence
-    url: "http://inverseprobability.com/"
+  - name: Sophia Ananiadou
+    url: "http://www.nactem.ac.uk/staff/sophia.ananiadou/"
+  - name: Emma Barrett
+    url: "https://www.research.manchester.ac.uk/portal/emma.barrett.html"
+  - name: Danielle Belgrave
+    url: "https://www.microsoft.com/en-us/research/people/dabelgra/"
+  - name: Angelo Cangelosi
+    url: "https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html"
 
 map:
   show: False
