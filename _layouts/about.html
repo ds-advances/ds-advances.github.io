@@ -13,7 +13,7 @@ layout: default
   <p><strong>Sponsors</strong></p>
 
   {% for sponsor in site.conference.sponsors %}
-  <br>{% include listsponsor.html %}</br>
+  {% include listsponsor.html %}<br>
   {% endfor %}
   </p>
   {% endif %}
