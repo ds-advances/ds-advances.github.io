@@ -42,7 +42,7 @@ conference:
   hosts:  
   
   room: 
-  venue: etc Venues
+  venue: etc.venues
   location: Manchester, UK
   name: Advances in Data Science
   year: 2019
