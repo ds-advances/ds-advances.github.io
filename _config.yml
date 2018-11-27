@@ -55,6 +55,8 @@ conference:
     url: "http://www.datascience.manchester.ac.uk/"
   - name: Alan Turing Institute
     url: "https://www.turing.ac.uk/"
+  - name: IBM Research
+    url: "http://research.ibm.com/labs/uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
