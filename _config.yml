@@ -57,6 +57,8 @@ conference:
     url: "https://www.turing.ac.uk/"
   - name: IBM Research
     url: "http://research.ibm.com/labs/uk/"
+  - name: Microsoft Research
+    url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
