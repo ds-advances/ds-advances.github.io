@@ -59,6 +59,8 @@ conference:
     url: "http://research.ibm.com/labs/uk/"
   - name: Microsoft Research
     url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
+  - name: Royal Statistical Society
+    url: "https://www.rss.org.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
