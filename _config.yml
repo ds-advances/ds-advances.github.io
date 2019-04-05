@@ -61,6 +61,8 @@ conference:
     url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
   - name: Royal Statistical Society
     url: "https://www.rss.org.uk/"
+  - name: Peak.ai
+    url: "https://peak.ai/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
