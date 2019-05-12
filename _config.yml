@@ -63,6 +63,10 @@ conference:
     url: "https://www.rss.org.uk/"
   - name: Peak.ai
     url: "https://peak.ai/"
+  - name: Appleyard Lees
+    url: "https://www.appleyardlees.com/"
+  - name: Autotrader
+    url: "https://engineering.autotrader.co.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
