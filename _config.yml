@@ -61,6 +61,8 @@ conference:
     url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
   - name: Royal Statistical Society
     url: "https://www.rss.org.uk/"
+  - name: Software Sustainability Institute
+    url: "https://www.software.ac.uk/"
   - name: Peak.ai
     url: "https://peak.ai/"
   - name: Appleyard Lees
