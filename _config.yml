@@ -1,5 +1,5 @@
 # Site settings
-title: "Advances in Data Science, 2019"
+title: "Advances in Data Science, 2020"
 email: "dsi.enquiries@manchester.ac.uk"
 description: >
   A 2-day workshop showcasing recent advances in data science methodology and applications.
@@ -9,7 +9,7 @@ twitter_username: dsi_uom
 github_username: ds-advances
 
 previous_meeting:
- url: /ds-advances2018
+ url: /ds-advances2019
 
 github:
   edit: true
@@ -42,44 +42,42 @@ conference:
   hosts:  
   
   room: 
-  venue: etc.venues
+  venue: Hilton Manchester Deansgate
   location: Manchester, UK
   name: Advances in Data Science
-  year: 2019
-  month: May
+  year: 2020
+  month: June
   dates:
-  - 2019-05-20
-  - 2019-05-21
+  - 2020-06-22
+  - 2020-06-23
   sponsors:
   - name: University of Manchester Data Science Institute
     url: "http://www.datascience.manchester.ac.uk/"
   - name: Alan Turing Institute
     url: "https://www.turing.ac.uk/"
-  - name: IBM Research
-    url: "http://research.ibm.com/labs/uk/"
-  - name: Microsoft Research
-    url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
-  - name: Royal Statistical Society
-    url: "https://www.rss.org.uk/"
-  - name: Software Sustainability Institute
-    url: "https://www.software.ac.uk/"
-  - name: Peak.ai
-    url: "https://peak.ai/"
-  - name: Appleyard Lees
-    url: "https://www.appleyardlees.com/"
-  - name: Autotrader
-    url: "https://engineering.autotrader.co.uk/"
+ # - name: IBM Research
+#    url: "http://research.ibm.com/labs/uk/"
+#  - name: Microsoft Research
+#    url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
+#  - name: Royal Statistical Society
+#    url: "https://www.rss.org.uk/"
+#  - name: Software Sustainability Institute
+#    url: "https://www.software.ac.uk/"
+#  - name: Peak.ai
+#    url: "https://peak.ai/"
+#  - name: Appleyard Lees
+#    url: "https://www.appleyardlees.com/"
+#  - name: Autotrader
+#    url: "https://engineering.autotrader.co.uk/"
   organizers:
   - name: Magnus Rattray
     url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
+  - name: Mauricio Alvarez
+    url: "https://www.sheffield.ac.uk/dcs/people/academic/malvarez"
   - name: Sophia Ananiadou
     url: "http://www.nactem.ac.uk/staff/sophia.ananiadou/"
-  - name: Emma Barrett
-    url: "https://www.research.manchester.ac.uk/portal/emma.barrett.html"
   - name: Danielle Belgrave
     url: "https://www.microsoft.com/en-us/research/people/dabelgra/"
-  - name: Angelo Cangelosi
-    url: "https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html"
 
 map:
   show: False
