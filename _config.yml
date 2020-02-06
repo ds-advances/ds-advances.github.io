@@ -26,7 +26,7 @@ markdown: kramdown
 future: true
 
 permalink: "/:categories/:title.html"
-banner: manchester2019-old.jpg
+banner: manchester2020.jpg
 
 analytics:
  google:
@@ -65,7 +65,7 @@ conference:
 #    url: "https://www.software.ac.uk/"
 #  - name: Peak.ai
 #    url: "https://peak.ai/"
-#  - name: Appleyard Lees
+#  - name: Appleyard Leesds-advances.github.io
 #    url: "https://www.appleyardlees.com/"
 #  - name: Autotrader
 #    url: "https://engineering.autotrader.co.uk/"
