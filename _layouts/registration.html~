@@ -2,15 +2,10 @@
 layout: page
 ---
 <article>
-
-  <p> The event is free. Please use the following link to register: <a href="https://www.eventbrite.co.uk/e/advances-in-data-science-conference-2020-tickets-105508500766"> <b> Registration </b> </a></p>
   
-  <!-- 
   <p> The cost to attend the meeting is &pound;120 standard rate, &pound;80 student rate and &pound;60 single day attendance. The conference dinner on Monday evening is &pound;50. </p>
     
   <p> Please use the following link to register: <a href="https://estore.manchester.ac.uk/conferences-and-events/faculty-of-biology-medicine-and-health/school-of-health-sciences/data-science/advances-in-data-science-2020"> <b> Registration </b> </a></p>
-
-  -->
 
  
 </article>
