@@ -42,8 +42,8 @@ conference:
   hosts:  
   
   room: 
-  venue: Hilton Manchester Deansgate
-  location: Manchester, UK
+# venue: Hilton Manchester Deansgate
+# location: Manchester, UK
   name: Advances in Data Science
   year: 2020
   month: June
@@ -54,7 +54,7 @@ conference:
     url: "http://www.datascience.manchester.ac.uk/"
   - name: Alan Turing Institute
     url: "https://www.turing.ac.uk/"
- # - name: IBM Research
+# - name: IBM Research
 #    url: "http://research.ibm.com/labs/uk/"
 #  - name: Microsoft Research
 #    url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
