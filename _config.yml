@@ -2,7 +2,7 @@
 title: "Advances in Data Science, 2020"
 email: "dsi.enquiries@manchester.ac.uk"
 description: >
-  A 2-day workshop showcasing recent advances in data science methodology and applications.
+  A workshop showcasing recent advances in data science methodology and applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.github.io" # the base hostname & protocol for your site
 twitter_username: idsai_uom
@@ -48,7 +48,6 @@ conference:
   year: 2020
   month: June
   dates:
-  - 2020-06-22
   - 2020-06-23
   sponsors:
   - name: University of Manchester Institute for Data Science and Artificial Intelligence
