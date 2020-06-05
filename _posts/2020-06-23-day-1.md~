@@ -13,7 +13,7 @@ talks:
     institute: University of Manchester Institute for Data Science and AI
     url: http://www.ls.manchester.ac.uk/people/profile/?alias=rattraym
   title: Welcome
-- start: "10:10"
+- start: "10:00"
   end: "10:30"
   author: 
   - given: Ivan
@@ -22,18 +22,17 @@ talks:
     url: http://ivan-titov.org/
   title: Interpretability in Natural Language Processing
   abstract: " "
-- start: "10:35"
-  end: "10:55"
-  author:
-  - given: Maria
-    family: Liakata
-    institute: 
-    url: https://warwick.ac.uk/fac/sci/dcs/people/maria_liakata/
-  title: TBA
-  abstract: " "
-
 ---
-
+<!--
+- start: "9:50"
+  end: "10:25"
+  author:
+  - given: Byron
+    family: Wallace
+    institute: Northeastern University, USA
+    url: http://www.byronwallace.com/
+  title: On the use and interpretation of neural attention mechanisms for biomedical natural language processing
+  abstract: "Attention mechanisms allow neural networks to “focus” on particular units of input (e.g., specific words or sentences) to inform predictions. Incorporation of attention has been shown to improve model predictive performance for various natural language processing (NLP) tasks. Attention mechanisms also often touted (implicitly or explicitly) as affording interpretability: for a given output one can inspect the inputs to which the model assigned comparatively large attention weights. In this talk I will discuss a few specific attentive neural architectures designed for problems in health informatics, broadly construed. Model interpretability is a key consideration in this domain; I will therefore also present empirical work that interrogates properties of attention weights to ascertain whether they afford transparency. I will discuss that while attention does consistently improve predictive performance, its use as a means of providing model interpretability is questionable."
 - start: "10:30"
   title: Coffee
 - start: "11:00"
