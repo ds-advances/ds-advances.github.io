@@ -1,20 +1,28 @@
-# Site settings
-title: "Advances in Data Science, 2020"
-email: "dsi.enquiries@manchester.ac.uk"
+title: Advances in Data Science
+author:
+  name: University of Manchester Data Science Institute
+  email: "dsi.enquiries@manchester.ac.uk"
 description: >
-  A workshop showcasing recent advances in data science methodology and applications.
+  A 2-day workshop showcasing recent advances in data science methodology and applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ds-advances.github.io" # the base hostname & protocol for your site
-twitter_username: idsai_uom
+twitter_username: dsi_uom
 github_username: ds-advances
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: ads
 
-previous_meeting:
- url: /ds-advances2019
-
-github:
+ghub:
   edit: true
   repository: ds-advances.github.io
 
+previous_meeting:
+  url: /ads2020
+
+  
 youtube:
   height: 315
   width: 560
@@ -36,47 +44,6 @@ youtube:
   height: 315
   width: 560
 
-conference:
-  draft:  # set to True if the programme is draft only.
-  hide_tentative: true
-  hosts:  
-  
-  room: 
-# venue: Hilton Manchester Deansgate
-# location: Manchester, UK
-  name: Advances in Data Science
-  year: 2020
-  month: June
-  dates:
-  - 2020-06-23
-  sponsors:
-  - name: University of Manchester Institute for Data Science and Artificial Intelligence
-    url: "http://www.datascience.manchester.ac.uk/"
-  - name: Alan Turing Institute
-    url: "https://www.turing.ac.uk/"
-# - name: IBM Research
-#    url: "http://research.ibm.com/labs/uk/"
-#  - name: Microsoft Research
-#    url: "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
-#  - name: Royal Statistical Society
-#    url: "https://www.rss.org.uk/"
-#  - name: Software Sustainability Institute
-#    url: "https://www.software.ac.uk/"
-#  - name: Peak.ai
-#    url: "https://peak.ai/"
-#  - name: Appleyard Leesds-advances.github.io
-#    url: "https://www.appleyardlees.com/"
-#  - name: Autotrader
-#    url: "https://engineering.autotrader.co.uk/"
-  organizers:
-  - name: Magnus Rattray
-    url: "https://www.research.manchester.ac.uk/portal/Magnus.Rattray.html"
-  - name: Mauricio Alvarez
-    url: "https://www.sheffield.ac.uk/dcs/people/academic/malvarez"
-  - name: Sophia Ananiadou
-    url: "https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html"
-  - name: Danielle Belgrave
-    url: "https://www.microsoft.com/en-us/research/people/dabelgra/"
 
 map:
   show: False
